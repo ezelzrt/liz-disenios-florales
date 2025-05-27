@@ -1,21 +1,8 @@
-# liz_disenios_florales
-
-## Consigna
-1. Estructura Básica de HTML.
-    - Estructura semántica: El HTML debe estar dividido en las etiquetas semánticas principales: header, nav, main, section, footer.
-
-    README.md: Incluir un archivo que explique brevemente el propósito de la página.
-
-2. Formulario de Contacto.
-    
-    Formulario funcional: Crear un formulario de contacto con campos para nombre, correo electrónico y mensaje, utilizando Formspree para manejar el envío de datos.
-
-3. Estilos Básicos Aplicados con CSS
-    - Archivo styles.css: El proyecto debe contar con un archivo CSS externo que incluya:
-        - Estilos básicos aplicados a las secciones de header, footer y lista de navegación.
-        - Fuentes de Google Fonts correctamente implementadas.
-
-    Propiedades de background aplicadas en alguna sección de la página (color, imagen, degradado, etc.).
+# Pre-entrega curso Front - End JS
+La siguiente página es una preentrega realizada para el curso de Front - End JS, la cual cuenta con:
+- Una estructura básica de HTML con las etiquetas semánticas principales: header, nav, main, section, footer.
+- Un formulario de contacto con campos para nombre, correo electrónico y mensaje, utilizando Formspree para manejar el envío de datos.
+- Estilos básicos aplicados con CSS a las secciones de header, footer y lista de navegación. También cuenta con fuentes de Google Fonts e iconos de [fontawesome](https://fontawesome.com/).
 
 4. Diseño Responsivo con Flexbox y Grid
     - Sección "Productos": Organizada en cards de forma responsiva utilizando Flexbox.
