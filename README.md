@@ -9,4 +9,4 @@ La página realizada cuenta con:
 - Mas diseños responsivos mediante el uso de Media Queries para adaptarse a diferentes tamaños de pantalla.
 - Contenido multimedia y navegación interna
 
-Adicionalmente el proyecto se encuentra subido en GitHub Pages, el cual se puede visualizar en la siguiente URL: https://ezelzrt.github.io/liz_disenios_florales/
+Adicionalmente el proyecto se encuentra subido en GitHub Pages, el cual se puede visualizar en la siguiente URL: https://ezelzrt.github.io/liz-disenios-florales/
