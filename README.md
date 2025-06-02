@@ -1,33 +1,12 @@
-# liz_disenios_florales
+# Pre-entrega curso Front - End JS
+El siguiente repositorio es una pre-entrega realizada para el curso de Front-End JS, la cual consiste es la realización de una página aplicando los conceptos de html y css vistos en las clases
 
-## Consigna
-1. Estructura Básica de HTML.
-    - Estructura semántica: El HTML debe estar dividido en las etiquetas semánticas principales: header, nav, main, section, footer.
+La página realizada cuenta con:
+- Estructura básica de HTML con las etiquetas semánticas principales: header, nav, main, section, footer.
+- Formulario de contacto con campos para nombre, correo electrónico y mensaje, utilizando [Formspree](https://formspree.io/) para manejar el envío de datos.
+- Estilos básicos aplicados con CSS a las secciones de header, footer y lista de navegación. También cuenta con fuentes de Google Fonts e iconos de [fontawesome](https://fontawesome.com/).
+- Diseño responsivo con flexbox en la sección "Productos".
+- Mas diseños responsivos mediante el uso de Media Queries para adaptarse a diferentes tamaños de pantalla.
+- Contenido multimedia y navegación interna
 
-    README.md: Incluir un archivo que explique brevemente el propósito de la página.
-
-2. Formulario de Contacto.
-    
-    Formulario funcional: Crear un formulario de contacto con campos para nombre, correo electrónico y mensaje, utilizando Formspree para manejar el envío de datos.
-
-3. Estilos Básicos Aplicados con CSS
-    - Archivo styles.css: El proyecto debe contar con un archivo CSS externo que incluya:
-        - Estilos básicos aplicados a las secciones de header, footer y lista de navegación.
-        - Fuentes de Google Fonts correctamente implementadas.
-
-    Propiedades de background aplicadas en alguna sección de la página (color, imagen, degradado, etc.).
-
-4. Diseño Responsivo con Flexbox y Grid
-    - Sección "Productos": Organizada en cards de forma responsiva utilizando Flexbox.
-    - Sección "Reseñas": Organizada utilizando Grid, con una distribución lógica y estética.
-    - Sección "Contacto": Debe ser responsiva mediante el uso de Media Queries para adaptarse a diferentes tamaños de pantalla.
-
-5. Contenido Multimedia y Navegación
-    
-    Multimedia: deberá incluir archivos multimedia (imagenes, video o iframe) correctamente integrado en la página.
-    
-    Lista de navegación: Implementar una lista desordenada con enlaces que simulen una navegación interna (Inicio, Productos, Contacto, etc.).
-
-6. Subida del Proyecto.
-    
-    El proyecto debe estar subido a un hosting gratuito (Netlify o GitHub Pages), con una URL funcional para visualizar el sitio.
+Adicionalmente el proyecto se encuentra subido en GitHub Pages, el cual se puede visualizar en la siguiente URL: https://ezelzrt.github.io/liz-disenios-florales/
